@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @verstecken
 - 👀 I’m interested in punk and music.
-- 🌱 I’m currently learning coding.
+- 🌱 I’m currently learning p5, hydra,...
 - 💞️ I’m looking to collaborate on everything.
